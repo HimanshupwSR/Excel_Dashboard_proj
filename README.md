@@ -1,2 +1,4 @@
 Practice Dashboard project which contain data of top-5 & bottom-5 sales done by sales exceutive in a pivot table and target they have achieved in another pivot table. Data and can be changed according to states 
 Data is represented in piechart and line graph form which is easy to understand 
+
+![excel screenshot](Screenshot 2025-08-21 090301.png)
